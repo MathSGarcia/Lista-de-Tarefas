@@ -5,6 +5,7 @@ Este é um pequeno sistema de lista de tarefas operado via terminal.
 Ele permite autenticação de usuário e oferece todas as operações básicas de um CRUD (criar, ler, atualizar e deletar tarefas).
 
 Como funciona
+
 Ao executar o programa, o usuário passa por uma tela de login (com credenciais armazenadas no arquivo users.txt no formato usuario;senha).
 Depois de autenticado, é exibido um menu onde se escolhe entre criar uma nova tarefa, listar as tarefas existentes, atualizar uma tarefa ou apagá-la.
 Cada tarefa é armazenada em tasks.txt, num formato simples de texto: ID;descrição.
